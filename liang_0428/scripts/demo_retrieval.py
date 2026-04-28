@@ -58,12 +58,28 @@ def lookup_text(metadata, index):
     return str(value)
 
 
-def retrieve(plip_features, knowledge_bank, region_size, top_k, top_regions=None):
+def resolve_device(device_arg):
+    if device_arg == "auto":
+        return torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = torch.device(device_arg)
+    if device.type == "cuda" and not torch.cuda.is_available():
+        raise RuntimeError(
+            "CUDA was requested, but torch.cuda.is_available() is False in this environment."
+        )
+    return device
+
+
+def validate_feature_dims(plip_features, knowledge_bank):
     if plip_features.size(-1) != knowledge_bank.size(-1):
         raise ValueError(
             "Feature dimension mismatch: "
             f"PLIP has {plip_features.size(-1)}, knowledge bank has {knowledge_bank.size(-1)}"
         )
+
+
+def original_bigen_retrieve(plip_features, knowledge_bank, region_size, top_k, top_regions=None):
+    """Mirror modules.encoder_decoder.process_features, but keep scores/indices for inspection."""
+    validate_feature_dims(plip_features, knowledge_bank)
 
     if top_regions is not None:
         plip_features = plip_features[:top_regions]
@@ -81,6 +97,18 @@ def retrieve(plip_features, knowledge_bank, region_size, top_k, top_regions=None
         dim=2,
     )
     scores, indices = similarities.topk(top_k, dim=1, largest=True, sorted=True)
+    retrieved_features = knowledge_bank[indices].mean(dim=1)
+    return scores, indices, retrieved_features
+
+
+def retrieve(plip_features, knowledge_bank, region_size, top_k, top_regions=None):
+    scores, indices, _ = original_bigen_retrieve(
+        plip_features=plip_features,
+        knowledge_bank=knowledge_bank,
+        region_size=region_size,
+        top_k=top_k,
+        top_regions=top_regions,
+    )
     return scores, indices
 
 
@@ -105,6 +133,11 @@ def parse_args():
     parser.add_argument("--m", type=int, default=10, help="Region size used by BiGen retrieval.")
     parser.add_argument("--k", type=int, default=3, help="Top-k knowledge entries per region.")
     parser.add_argument(
+        "--device",
+        default="auto",
+        help="Device for retrieval: auto, cpu, cuda, cuda:0, etc. Default: auto.",
+    )
+    parser.add_argument(
         "--top_regions",
         type=int,
         default=None,
@@ -113,16 +146,25 @@ def parse_args():
     )
     parser.add_argument("--max_print_regions", type=int, default=10)
     parser.add_argument("--out_csv", default=None, help="Optional path to save retrieval results.")
+    parser.add_argument(
+        "--out_features_pt",
+        default=None,
+        help="Optional path to save original BiGen averaged top-k retrieved features.",
+    )
     return parser.parse_args()
 
 
 def main():
     args = parse_args()
+    device = resolve_device(args.device)
     plip_features = load_tensor(args.plip_pt)
     knowledge_bank = load_tensor(args.bank_pt)
     metadata = load_knowledge_text(args.bank_json)
 
-    scores, indices = retrieve(
+    plip_features = plip_features.to(device)
+    knowledge_bank = knowledge_bank.to(device)
+
+    scores, indices, retrieved_features = original_bigen_retrieve(
         plip_features=plip_features,
         knowledge_bank=knowledge_bank,
         region_size=args.m,
@@ -132,6 +174,7 @@ def main():
 
     print(f"PLIP feature shape: {tuple(plip_features.shape)}")
     print(f"Knowledge bank shape: {tuple(knowledge_bank.shape)}")
+    print(f"Device: {device}")
     print(f"Regions: {scores.size(0)}, top-k per region: {scores.size(1)}")
     print()
 
@@ -164,6 +207,11 @@ def main():
         write_csv(rows, args.out_csv)
         print()
         print(f"Saved CSV: {args.out_csv}")
+
+    if args.out_features_pt:
+        os.makedirs(os.path.dirname(os.path.abspath(args.out_features_pt)), exist_ok=True)
+        torch.save(retrieved_features.detach().cpu(), args.out_features_pt)
+        print(f"Saved original BiGen retrieved features: {args.out_features_pt}")
 
 
 if __name__ == "__main__":

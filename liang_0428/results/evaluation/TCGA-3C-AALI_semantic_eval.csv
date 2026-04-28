@@ -1,0 +1,100 @@
+knowledge_index,count,mean_similarity,max_similarity,matched_gt_categories,conflicting_categories,other_matched_categories,text
+6352,314,0.311876,0.330063,,tumor_type_ductal;grade_ii,tumor_type_lobular,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+7876,131,0.302608,0.314044,,negative_lymph_nodes,,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+7292,119,0.302119,0.317635,,negative_lymph_nodes,,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+5108,94,0.306335,0.330053,,negative_lymph_nodes,,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+6702,63,0.300417,0.309641,grade_ii,tumor_type_ductal;right_side,tumor_type_lobular,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+1449,61,0.303931,0.317066,negative_lymph_nodes,,,Twenty-six lymph nodes are negative for metastatic carcinoma.
+4909,49,0.298715,0.311905,,,,The remaining breast tissue shows lipomatous atrophy.
+2455,45,0.306984,0.327828,,,,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+6206,39,0.301884,0.310048,,negative_lymph_nodes,,The largest metastatic focus measures 1 cm with extracapsular extension.
+637,38,0.300250,0.307092,,no_angiolymphatic_invasion;negative_lymph_nodes,,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+7653,33,0.300028,0.306126,,,,- Distant metastasis: Present.
+2040,32,0.303618,0.314595,,,,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+2362,32,0.294806,0.302469,,,,- Fibrosis.
+7681,28,0.296710,0.305187,right_side,tumor_type_ductal,tumor_type_lobular,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+7654,22,0.293255,0.303458,right_side,right_side,,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+1954,21,0.300744,0.307541,,,,- Multifocal fat necrosis.
+5349,19,0.293215,0.298543,,,,- Sarcomatous: Positive.
+7288,19,0.293154,0.298257,,tumor_type_ductal;grade_ii,tumor_type_lobular,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+3892,17,0.292622,0.300641,,right_side,,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+3749,17,0.289513,0.298933,,,,[name redacted].
+4069,16,0.294949,0.299063,,,,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+945,16,0.292961,0.297935,,right_side,,"- Left breast, new posterior margin excision: Negative for tumor."
+5110,15,0.292738,0.298591,,,,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+4231,14,0.307237,0.316708,,,,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+5815,14,0.295059,0.302338,,,,The margins of normal tissues were also described.
+1054,14,0.290083,0.301771,,right_side,,4. Skin of left breast: Fibrosis.
+1258,13,0.301345,0.309883,tumor_type_ductal;dcis;no_angiolymphatic_invasion,right_side,,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+1371,12,0.302572,0.308750,,,,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+2280,12,0.299875,0.305434,tumor_type_ductal,tumor_type_ductal,tumor_type_lobular,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+7043,12,0.295388,0.301427,,tumor_type_ductal,tumor_type_lobular,"The tumor is classified as invasive lobular breast carcinoma, G II."
+7564,11,0.299449,0.305839,dcis,tumor_type_ductal;grade_ii;right_side,tumor_type_lobular,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+7947,11,0.298409,0.301619,grade_ii;dcis,tumor_type_ductal,tumor_type_lobular,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+2033,11,0.294220,0.296666,,no_angiolymphatic_invasion,,- Extensive vascular invasion.
+1187,9,0.302240,0.309247,tumor_type_ductal,grade_ii;right_side,,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+6566,9,0.298024,0.307084,,,,Minimal axillary tissue is present and no lymph nodes are identified.
+1247,9,0.300199,0.306066,,right_side,,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+7239,8,0.307589,0.316951,right_side,,,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+6925,8,0.296305,0.299755,grade_ii,tumor_type_ductal,tumor_type_lobular,"- Infiltrating lobular carcinoma, Nottingham grade II."
+7121,7,0.298031,0.301047,dcis,tumor_type_ductal,tumor_type_lobular,- The final diagnosis is infiltrating lobular carcinoma with focal lobular carcinoma in situ and cancerization of terminal ducts.
+3803,7,0.293048,0.296525,,,,Ancillary studies:.
+3545,6,0.299933,0.306055,tumor_type_ductal,,,"The distant fibrolipomatous parenchyma of the breast shows risk lesions of unsettled to atypical ductal hyperplasia, but is tumor-free."
+1656,6,0.296258,0.298924,,,,The Nottingham Histologic Score could not be determined due to missing information.
+137,6,0.287632,0.292324,,,,- Treatment: None.
+3914,5,0.299756,0.305480,,negative_lymph_nodes,,The largest metastasis measured 3.4 cm and had extracapsular extension.
+1758,5,0.299017,0.305221,right_side,,,A tumor was found on the right breast.
+4620,5,0.291158,0.294288,,,,There are also findings of fibroadenomata and stromal fibrosis.
+3345,5,0.285962,0.293429,right_side,,,"There were fourteen lymph nodes in the right axilla, all of which were negative for tumor."
+2520,4,0.293513,0.295989,,,,- Stage: Not specified.
+6537,4,0.291364,0.292535,,right_side,,1. Left Breast:.
+4891,4,0.290420,0.292324,,,,- Treatment: None.
+7458,3,0.308431,0.317324,negative_lymph_nodes,,,3) Lymph node sampling revealed negative for metastasis.
+3632,3,0.299099,0.310783,,,,"The HER-2/NEU testing was negative, but it will be repeated due to possible differences in fixation."
+4714,3,0.299670,0.303219,tumor_type_ductal;grade_ii;dcis;right_side,,,"The final diagnosis is infiltrating ductal carcinoma of the breast, Nottingham grade II, with ductal carcinoma in situ and micrometastasis in the right axillary lymph node."
+7529,3,0.294267,0.298311,,tumor_type_ductal;right_side,tumor_type_lobular,"In the left breast lumpectomy, there was invasive lobular carcinoma that was moderately differentiated, with a Nottingham grade of 2."
+5341,3,0.296931,0.298279,,,,Stage: 1C.
+5954,3,0.293249,0.295092,,,,There is no skeletal muscle present.
+3694,3,0.292647,0.294809,,,,The Nottingham Score could not be determined.
+7856,3,0.288980,0.293925,,tumor_type_ductal,tumor_type_lobular,- Invasive lobular carcinoma was identified (detailed breast pathologic parameters provided).
+3246,3,0.292126,0.292578,tumor_type_ductal,,,"The non-neoplastic breast tissue shows ductal ectasia, fibrosis, and microcyst formation."
+6544,3,0.291440,0.292535,,right_side,,1. Left Breast:.
+3194,3,0.289408,0.290231,negative_margins,,,4. Invasive tumor extends to the superior margin but is margin-free.
+1794,2,0.309967,0.315072,dcis,,,- The DCIS is located outside the main mass and is diffuse.
+912,2,0.311792,0.314701,,,,"The primary tumor is classified as pT2 (tumor >20 mm but <50 mm in greatest dimension) and regional lymph nodes are classified as pN1a (metastases in 1 to 3 axillary lymph nodes, with at least 1 metastasis greater than 2.0 mm)."
+6364,2,0.310319,0.313256,,,,"Lymph nodes in the axillary fatty tissue show signs of lipomatosis, suggesting the presence of metastases."
+4531,2,0.298029,0.301550,right_side,,,"The right posterior margin mainly consisted of adipose tissue with calcification of the vessel wall, and no tumor was identified."
+1098,2,0.298060,0.299365,,no_angiolymphatic_invasion,,- Lymphatic-vascular Invasion: None.
+2334,2,0.296656,0.296886,,,,There is no information regarding neo-adjuvant treatment or any additional pathological findings.
+4880,2,0.293646,0.293787,,,,- Diagnosis: Metaplastic carcinoma.
+4572,2,0.292631,0.293369,,,,There are no identified masses or areas of fibrosis.
+1721,2,0.292721,0.292824,,,,The intraoperative frozen section diagnosis confirms the presence of carcinoma involving the skeletal muscle.
+6993,2,0.290870,0.291260,,tumor_type_ductal;right_side,tumor_type_lobular,Left breast lumpectomy: Moderate differentiated invasive lobular carcinoma.
+398,2,0.289228,0.289810,,,,The tissue specimen was frozen for examination.
+245,2,0.283517,0.283611,right_side,,,"- Specimen received fresh for frozen section diagnosis: Sentinel Node #2, Level x, Right Axilla."
+6289,1,0.307472,0.307472,,,,The specimen consists of a mass composed of firm white tissue with areas of adipose tissue.
+6533,1,0.301805,0.301805,right_side,,,"Additionally, a diffusely cauterized and fragmented right breast tissue specimen was received, showing a soft, lobulated tan gold-white portion of adipose tissue."
+4729,1,0.300897,0.300897,tumor_type_ductal,grade_ii;right_side,,"In the left breast, there is infiltrating ductal carcinoma, Nottingham grade III, with a 4.7 x 4.0 x 2.7 cm mass located in the upper outer quadrant (AJCCpT2)."
+4530,1,0.298362,0.298362,right_side,,,"In the examination of the right axillary contents, 12 out of 22 lymph nodes were positive for metastatic carcinoma, with focal extranodal involvement identified."
+7678,1,0.298012,0.298012,,,,One lymph node has a 0/1 (TCGA-EW-A12-914-PR).
+2198,1,0.297013,0.297013,,,,"The invasive tumor cells are positive for estrogen receptor and progesterone receptor, but negative for HER-2."
+6427,1,0.296435,0.296435,,tumor_type_ductal,tumor_type_lobular,"- Three focal areas of invasive lobular carcinoma, with sizes ranging from 2.9 cm to 0.2 cm."
+1351,1,0.295666,0.295666,right_side,,,Additional right breast tissue in the superficial region shows no evidence of carcinoma in the fibroadipose tissue.
+7763,1,0.295041,0.295041,,,,Few mitotic figures are observed.
+6837,1,0.294887,0.294887,,,,Date of Report: Not provided.
+4752,1,0.294468,0.294468,,,,The margins of the specimen were not specified.
+6098,1,0.293960,0.293960,,,,"The method of lymph node examination was H&E stain, and there is metastasis in the sentinel node."
+5802,1,0.293913,0.293913,,,,The lymph node biopsy showed fibroadipose tissue and no lymphatic tissue.
+4247,1,0.293871,0.293871,,,,Dr.
+1928,1,0.293508,0.293508,,,,Biopsy site changes with fibrosis are observed.
+6518,1,0.292507,0.292507,grade_ii,tumor_type_ductal,tumor_type_lobular,"The main tumor is a 57 mm invasive lobular carcinoma, Nottingham grade 2."
+1229,1,0.292116,0.292116,,,,The biopsy site showed changes consistent with fibrosis and granulation tissue.
+6118,1,0.291952,0.291952,,,,The treatment effect is not specified.
+3412,1,0.291602,0.291602,,,,Normal Sample:.
+139,1,0.291602,0.291602,,,,Normal Sample:.
+3906,1,0.290096,0.290096,,,,"- Other findings include biopsy site changes in Mass #1, fibroadenomatous change, and skin with seborrheic keratosis."
+7695,1,0.290061,0.290061,,,,- Two lymph nodes with no pathological diagnosis.
+1628,1,0.288615,0.288615,,,,- The excisional biopsy margin was free of tumor (2 mm from the anterior margin).
+7604,1,0.287221,0.287221,,,,"- Skin and subcutaneous adipose tissue, no evidence of malignancy."
+1623,1,0.282276,0.282276,,,,- Hemorrhagic fat necrosis was observed at the previous biopsy site.
+244,1,0.280341,0.280341,right_side,,,"- Specimen received fresh for frozen section diagnosis: Sentinel Node #1, Level x, Right Axilla."

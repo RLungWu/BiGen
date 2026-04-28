@@ -1,0 +1,1555 @@
+region,rank,knowledge_index,similarity,text
+0,1,7288,0.296749,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+0,2,945,0.288339,"- Left breast, new posterior margin excision: Negative for tumor."
+0,3,3749,0.287530,[name redacted].
+1,1,7288,0.297494,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+1,2,945,0.287892,"- Left breast, new posterior margin excision: Negative for tumor."
+1,3,7654,0.283628,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+2,1,7288,0.293363,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+2,2,945,0.290697,"- Left breast, new posterior margin excision: Negative for tumor."
+2,3,3749,0.285887,[name redacted].
+3,1,945,0.295675,"- Left breast, new posterior margin excision: Negative for tumor."
+3,2,7288,0.295118,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+3,3,7654,0.290011,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+4,1,1954,0.297948,- Multifocal fat necrosis.
+4,2,945,0.291938,"- Left breast, new posterior margin excision: Negative for tumor."
+4,3,7695,0.290061,- Two lymph nodes with no pathological diagnosis.
+5,1,7288,0.292632,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+5,2,945,0.288120,"- Left breast, new posterior margin excision: Negative for tumor."
+5,3,7856,0.287760,- Invasive lobular carcinoma was identified (detailed breast pathologic parameters provided).
+6,1,2455,0.297582,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+6,2,1954,0.297404,- Multifocal fat necrosis.
+6,3,2040,0.296490,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+7,1,6566,0.307084,Minimal axillary tissue is present and no lymph nodes are identified.
+7,2,6206,0.303833,The largest metastatic focus measures 1 cm with extracapsular extension.
+7,3,1449,0.303637,Twenty-six lymph nodes are negative for metastatic carcinoma.
+8,1,3749,0.298933,[name redacted].
+8,2,3694,0.294809,The Nottingham Score could not be determined.
+8,3,1656,0.294756,The Nottingham Histologic Score could not be determined due to missing information.
+9,1,945,0.293540,"- Left breast, new posterior margin excision: Negative for tumor."
+9,2,7654,0.293345,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+9,3,7288,0.292026,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+10,1,1449,0.309958,Twenty-six lymph nodes are negative for metastatic carcinoma.
+10,2,5108,0.305856,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+10,3,7292,0.305241,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+11,1,2520,0.295989,- Stage: Not specified.
+11,2,7763,0.295041,Few mitotic figures are observed.
+11,3,6098,0.293960,"The method of lymph node examination was H&E stain, and there is metastasis in the sentinel node."
+12,1,7288,0.295496,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+12,2,945,0.290137,"- Left breast, new posterior margin excision: Negative for tumor."
+12,3,7654,0.286890,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+13,1,2455,0.307234,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+13,2,2040,0.303088,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+13,3,1954,0.301147,- Multifocal fat necrosis.
+14,1,7876,0.306371,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+14,2,3914,0.305480,The largest metastasis measured 3.4 cm and had extracapsular extension.
+14,3,1371,0.305145,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+15,1,5341,0.296557,Stage: 1C.
+15,2,5815,0.294390,The margins of normal tissues were also described.
+15,3,3694,0.289900,The Nottingham Score could not be determined.
+16,1,7288,0.290712,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+16,2,4891,0.286355,- Treatment: None.
+16,3,137,0.286355,- Treatment: None.
+17,1,2455,0.308016,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+17,2,1954,0.301527,- Multifocal fat necrosis.
+17,3,2040,0.301485,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+18,1,1371,0.308750,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+18,2,3914,0.302974,The largest metastasis measured 3.4 cm and had extracapsular extension.
+18,3,7292,0.301871,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+19,1,5341,0.295958,Stage: 1C.
+19,2,3412,0.291602,Normal Sample:.
+19,3,139,0.291602,Normal Sample:.
+20,1,7288,0.291534,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+20,2,7654,0.287986,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+20,3,3749,0.287859,[name redacted].
+21,1,2455,0.299313,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+21,2,4909,0.296618,The remaining breast tissue shows lipomatous atrophy.
+21,3,3545,0.295780,"The distant fibrolipomatous parenchyma of the breast shows risk lesions of unsettled to atypical ductal hyperplasia, but is tumor-free."
+22,1,5108,0.313268,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+22,2,7292,0.311256,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+22,3,1449,0.309323,Twenty-six lymph nodes are negative for metastatic carcinoma.
+23,1,6352,0.300227,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+23,2,2198,0.297013,"The invasive tumor cells are positive for estrogen receptor and progesterone receptor, but negative for HER-2."
+23,3,7564,0.296930,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+24,1,5815,0.292738,The margins of normal tissues were also described.
+24,2,4891,0.292324,- Treatment: None.
+24,3,137,0.292324,- Treatment: None.
+25,1,945,0.295372,"- Left breast, new posterior margin excision: Negative for tumor."
+25,2,7654,0.295284,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+25,3,4909,0.293695,The remaining breast tissue shows lipomatous atrophy.
+26,1,4231,0.308957,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+26,2,1449,0.306601,Twenty-six lymph nodes are negative for metastatic carcinoma.
+26,3,2455,0.302930,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+27,1,1371,0.304914,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+27,2,7653,0.301758,- Distant metastasis: Present.
+27,3,7876,0.301688,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+28,1,5341,0.298279,Stage: 1C.
+28,2,5815,0.293757,The margins of normal tissues were also described.
+28,3,2520,0.293617,- Stage: Not specified.
+29,1,2040,0.296128,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+29,2,945,0.293323,"- Left breast, new posterior margin excision: Negative for tumor."
+29,3,1954,0.292313,- Multifocal fat necrosis.
+30,1,2455,0.300168,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+30,2,1954,0.294893,- Multifocal fat necrosis.
+30,3,4909,0.294619,The remaining breast tissue shows lipomatous atrophy.
+31,1,5108,0.313971,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+31,2,1449,0.312592,Twenty-six lymph nodes are negative for metastatic carcinoma.
+31,3,7292,0.312079,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+32,1,6352,0.310553,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+32,2,6206,0.310048,The largest metastatic focus measures 1 cm with extracapsular extension.
+32,3,7653,0.305134,- Distant metastasis: Present.
+33,1,5815,0.302338,The margins of normal tissues were also described.
+33,2,3694,0.293231,The Nottingham Score could not be determined.
+33,3,3803,0.292902,Ancillary studies:.
+34,1,945,0.292823,"- Left breast, new posterior margin excision: Negative for tumor."
+34,2,7654,0.290641,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+34,3,1628,0.288615,- The excisional biopsy margin was free of tumor (2 mm from the anterior margin).
+35,1,2455,0.309764,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+35,2,1954,0.303072,- Multifocal fat necrosis.
+35,3,2040,0.299228,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+36,1,7876,0.305472,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+36,2,1371,0.300139,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+36,3,7292,0.298968,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+37,1,6837,0.294887,Date of Report: Not provided.
+37,2,2520,0.292900,- Stage: Not specified.
+37,3,7564,0.291772,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+38,1,3749,0.293181,[name redacted].
+38,2,4891,0.291903,- Treatment: None.
+38,3,137,0.291903,- Treatment: None.
+39,1,7288,0.298257,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+39,2,945,0.297935,"- Left breast, new posterior margin excision: Negative for tumor."
+39,3,7654,0.295333,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+40,1,4231,0.309009,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+40,2,1449,0.307888,Twenty-six lymph nodes are negative for metastatic carcinoma.
+40,3,7239,0.304401,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+41,1,1371,0.308182,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+41,2,7876,0.305345,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+41,3,6206,0.305239,The largest metastatic focus measures 1 cm with extracapsular extension.
+42,1,6352,0.302259,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+42,2,7564,0.297742,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+42,3,1258,0.296004,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+43,1,7288,0.288602,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+43,2,3749,0.288313,[name redacted].
+43,3,137,0.287566,- Treatment: None.
+44,1,945,0.296131,"- Left breast, new posterior margin excision: Negative for tumor."
+44,2,3545,0.295373,"The distant fibrolipomatous parenchyma of the breast shows risk lesions of unsettled to atypical ductal hyperplasia, but is tumor-free."
+44,3,4909,0.295365,The remaining breast tissue shows lipomatous atrophy.
+45,1,2455,0.310434,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+45,2,1954,0.302184,- Multifocal fat necrosis.
+45,3,3545,0.297932,"The distant fibrolipomatous parenchyma of the breast shows risk lesions of unsettled to atypical ductal hyperplasia, but is tumor-free."
+46,1,7876,0.310002,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+46,2,5108,0.308609,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+46,3,7292,0.305692,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+47,1,6352,0.324199,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+47,2,6206,0.309737,The largest metastatic focus measures 1 cm with extracapsular extension.
+47,3,7653,0.304806,- Distant metastasis: Present.
+48,1,3803,0.296525,Ancillary studies:.
+48,2,5815,0.294932,The margins of normal tissues were also described.
+48,3,3749,0.293517,[name redacted].
+49,1,7288,0.292726,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+49,2,3749,0.285720,[name redacted].
+49,3,7856,0.285255,- Invasive lobular carcinoma was identified (detailed breast pathologic parameters provided).
+50,1,2455,0.306995,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+50,2,3545,0.301711,"The distant fibrolipomatous parenchyma of the breast shows risk lesions of unsettled to atypical ductal hyperplasia, but is tumor-free."
+50,3,4909,0.300679,The remaining breast tissue shows lipomatous atrophy.
+51,1,4231,0.308686,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+51,2,6364,0.307382,"Lymph nodes in the axillary fatty tissue show signs of lipomatosis, suggesting the presence of metastases."
+51,3,2455,0.306244,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+52,1,1371,0.305641,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+52,2,7876,0.305191,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+52,3,6206,0.303793,The largest metastatic focus measures 1 cm with extracapsular extension.
+53,1,6352,0.316687,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+53,2,6206,0.302653,The largest metastatic focus measures 1 cm with extracapsular extension.
+53,3,7564,0.302471,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+54,1,5815,0.293698,The margins of normal tissues were also described.
+54,2,3803,0.292983,Ancillary studies:.
+54,3,3749,0.292716,[name redacted].
+55,1,7288,0.297901,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+55,2,7856,0.293925,- Invasive lobular carcinoma was identified (detailed breast pathologic parameters provided).
+55,3,945,0.293441,"- Left breast, new posterior margin excision: Negative for tumor."
+56,1,2455,0.308948,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+56,2,3545,0.302747,"The distant fibrolipomatous parenchyma of the breast shows risk lesions of unsettled to atypical ductal hyperplasia, but is tumor-free."
+56,3,1954,0.299197,- Multifocal fat necrosis.
+57,1,6352,0.310787,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+57,2,1449,0.309324,Twenty-six lymph nodes are negative for metastatic carcinoma.
+57,3,5108,0.307764,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+58,1,1371,0.304850,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+58,2,3914,0.304285,The largest metastasis measured 3.4 cm and had extracapsular extension.
+58,3,7653,0.303649,- Distant metastasis: Present.
+59,1,6352,0.315794,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+59,2,6206,0.304757,The largest metastatic focus measures 1 cm with extracapsular extension.
+59,3,1258,0.301605,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+60,1,3803,0.294434,Ancillary studies:.
+60,2,5815,0.293598,The margins of normal tissues were also described.
+60,3,4069,0.290612,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+61,1,7288,0.295232,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+61,2,4620,0.289010,There are also findings of fibroadenomata and stromal fibrosis.
+61,3,6702,0.287766,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+62,1,2455,0.314671,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+62,2,3545,0.306055,"The distant fibrolipomatous parenchyma of the breast shows risk lesions of unsettled to atypical ductal hyperplasia, but is tumor-free."
+62,3,4909,0.300623,The remaining breast tissue shows lipomatous atrophy.
+63,1,7876,0.311595,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+63,2,637,0.306969,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+63,3,5108,0.304856,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+64,1,7876,0.308299,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+64,2,6206,0.304314,The largest metastatic focus measures 1 cm with extracapsular extension.
+64,3,5108,0.301204,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+65,1,6352,0.310206,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+65,2,7653,0.301777,- Distant metastasis: Present.
+65,3,4729,0.300897,"In the left breast, there is infiltrating ductal carcinoma, Nottingham grade III, with a 4.7 x 4.0 x 2.7 cm mass located in the upper outer quadrant (AJCCpT2)."
+66,1,4247,0.293871,Dr.
+66,2,5815,0.292630,The margins of normal tissues were also described.
+66,3,2520,0.291547,- Stage: Not specified.
+67,1,2455,0.289671,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+67,2,7288,0.288245,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+67,3,7604,0.287221,"- Skin and subcutaneous adipose tissue, no evidence of malignancy."
+68,1,2455,0.297940,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+68,2,4909,0.295599,The remaining breast tissue shows lipomatous atrophy.
+68,3,945,0.295429,"- Left breast, new posterior margin excision: Negative for tumor."
+69,1,1449,0.309695,Twenty-six lymph nodes are negative for metastatic carcinoma.
+69,2,5108,0.307515,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+69,3,4231,0.304036,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+70,1,7876,0.307801,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+70,2,6206,0.302445,The largest metastatic focus measures 1 cm with extracapsular extension.
+70,3,7653,0.301935,- Distant metastasis: Present.
+71,1,6206,0.305259,The largest metastatic focus measures 1 cm with extracapsular extension.
+71,2,7653,0.305030,- Distant metastasis: Present.
+71,3,7876,0.304322,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+72,1,6352,0.318678,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+72,2,6702,0.302083,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+72,3,1258,0.301409,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+73,1,5815,0.297236,The margins of normal tissues were also described.
+73,2,3803,0.295054,Ancillary studies:.
+73,3,4752,0.294468,The margins of the specimen were not specified.
+74,1,7288,0.293186,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+74,2,2455,0.289901,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+74,3,7654,0.289894,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+75,1,2455,0.300506,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+75,2,1954,0.296097,- Multifocal fat necrosis.
+75,3,4531,0.294507,"The right posterior margin mainly consisted of adipose tissue with calcification of the vessel wall, and no tumor was identified."
+76,1,6352,0.305253,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+76,2,5108,0.301314,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+76,3,1449,0.297789,Twenty-six lymph nodes are negative for metastatic carcinoma.
+77,1,6206,0.305423,The largest metastatic focus measures 1 cm with extracapsular extension.
+77,2,7653,0.303478,- Distant metastasis: Present.
+77,3,1371,0.300444,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+78,1,6352,0.304081,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+78,2,7876,0.301952,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+78,3,6206,0.301736,The largest metastatic focus measures 1 cm with extracapsular extension.
+79,1,6352,0.315376,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+79,2,1258,0.309883,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+79,3,7564,0.305839,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+80,1,2040,0.295552,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+80,2,4069,0.292968,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+80,3,4909,0.290957,The remaining breast tissue shows lipomatous atrophy.
+81,1,7654,0.299793,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+81,2,945,0.296590,"- Left breast, new posterior margin excision: Negative for tumor."
+81,3,2040,0.296081,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+82,1,6352,0.310127,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+82,2,3892,0.300641,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+82,3,7654,0.298204,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+83,1,7876,0.305335,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+83,2,6206,0.301678,The largest metastatic focus measures 1 cm with extracapsular extension.
+83,3,7653,0.299820,- Distant metastasis: Present.
+84,1,6206,0.306117,The largest metastatic focus measures 1 cm with extracapsular extension.
+84,2,7876,0.303414,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+84,3,7653,0.302735,- Distant metastasis: Present.
+85,1,6352,0.317682,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+85,2,1247,0.300438,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+85,3,7653,0.297788,- Distant metastasis: Present.
+86,1,4909,0.293614,The remaining breast tissue shows lipomatous atrophy.
+86,2,3632,0.291323,"The HER-2/NEU testing was negative, but it will be repeated due to possible differences in fixation."
+86,3,3749,0.289088,[name redacted].
+87,1,2040,0.302323,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+87,2,2455,0.297120,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+87,3,4909,0.294230,The remaining breast tissue shows lipomatous atrophy.
+88,1,2455,0.306088,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+88,2,7654,0.301709,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+88,3,6352,0.300930,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+89,1,6352,0.309296,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+89,2,7292,0.303025,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+89,3,7876,0.301449,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+90,1,6206,0.304023,The largest metastatic focus measures 1 cm with extracapsular extension.
+90,2,7653,0.301578,- Distant metastasis: Present.
+90,3,7876,0.299921,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+91,1,6352,0.306048,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+91,2,7876,0.305794,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+91,3,6206,0.303052,The largest metastatic focus measures 1 cm with extracapsular extension.
+92,1,6352,0.295288,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+92,2,3749,0.294019,[name redacted].
+92,3,7288,0.293132,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+93,1,4909,0.299735,The remaining breast tissue shows lipomatous atrophy.
+93,2,2455,0.291451,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+93,3,6537,0.291134,1. Left Breast:.
+94,1,1449,0.307963,Twenty-six lymph nodes are negative for metastatic carcinoma.
+94,2,5108,0.305352,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+94,3,4231,0.303588,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+95,1,6352,0.315206,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+95,2,7292,0.304655,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+95,3,5108,0.301758,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+96,1,6206,0.307473,The largest metastatic focus measures 1 cm with extracapsular extension.
+96,2,7653,0.306126,- Distant metastasis: Present.
+96,3,7876,0.301314,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+97,1,7876,0.305624,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+97,2,4714,0.303219,"The final diagnosis is infiltrating ductal carcinoma of the breast, Nottingham grade II, with ductal carcinoma in situ and micrometastasis in the right axillary lymph node."
+97,3,6352,0.301983,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+98,1,6352,0.305484,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+98,2,6702,0.302671,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+98,3,2040,0.296931,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+99,1,4909,0.298663,The remaining breast tissue shows lipomatous atrophy.
+99,2,6544,0.291191,1. Left Breast:.
+99,3,6537,0.291191,1. Left Breast:.
+100,1,1449,0.311874,Twenty-six lymph nodes are negative for metastatic carcinoma.
+100,2,5108,0.305970,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+100,3,7292,0.304905,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+101,1,6352,0.308993,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+101,2,7292,0.303588,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+101,3,5108,0.303267,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+102,1,6206,0.303823,The largest metastatic focus measures 1 cm with extracapsular extension.
+102,2,7653,0.303820,- Distant metastasis: Present.
+102,3,7876,0.302065,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+103,1,6352,0.312922,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+103,2,7653,0.300257,- Distant metastasis: Present.
+103,3,7876,0.299085,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+104,1,6352,0.299165,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+104,2,6702,0.294700,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+104,3,2362,0.294619,- Fibrosis.
+105,1,4069,0.293274,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+105,2,4909,0.292708,The remaining breast tissue shows lipomatous atrophy.
+105,3,2455,0.289732,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+106,1,7876,0.305604,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+106,2,637,0.304921,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+106,3,5108,0.303902,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+107,1,7876,0.312058,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+107,2,7292,0.304799,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+107,3,5108,0.303284,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+108,1,7876,0.309111,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+108,2,6206,0.306580,The largest metastatic focus measures 1 cm with extracapsular extension.
+108,3,7653,0.302633,- Distant metastasis: Present.
+109,1,6352,0.319885,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+109,2,6702,0.301595,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+109,3,4714,0.297131,"The final diagnosis is infiltrating ductal carcinoma of the breast, Nottingham grade II, with ductal carcinoma in situ and micrometastasis in the right axillary lymph node."
+110,1,4069,0.296505,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+110,2,1054,0.290638,4. Skin of left breast: Fibrosis.
+110,3,3906,0.290096,"- Other findings include biopsy site changes in Mass #1, fibroadenomatous change, and skin with seborrheic keratosis."
+111,1,6352,0.300507,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+111,2,4909,0.292377,The remaining breast tissue shows lipomatous atrophy.
+111,3,7681,0.292209,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+112,1,7876,0.301764,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+112,2,1371,0.298662,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+112,3,7653,0.294824,- Distant metastasis: Present.
+113,1,7876,0.314044,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+113,2,6352,0.306073,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+113,3,7292,0.304793,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+114,1,6352,0.310383,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+114,2,7876,0.304422,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+114,3,6206,0.298866,The largest metastatic focus measures 1 cm with extracapsular extension.
+115,1,6352,0.319793,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+115,2,7121,0.299048,- The final diagnosis is infiltrating lobular carcinoma with focal lobular carcinoma in situ and cancerization of terminal ducts.
+115,3,6702,0.298882,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+116,1,4069,0.295437,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+116,2,1928,0.293508,Biopsy site changes with fibrosis are observed.
+116,3,1054,0.287889,4. Skin of left breast: Fibrosis.
+117,1,6352,0.309543,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+117,2,5108,0.303960,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+117,3,1449,0.303179,Twenty-six lymph nodes are negative for metastatic carcinoma.
+118,1,7876,0.306148,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+118,2,6352,0.301810,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+118,3,6206,0.300099,The largest metastatic focus measures 1 cm with extracapsular extension.
+119,1,7876,0.308129,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+119,2,7292,0.305969,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+119,3,6352,0.303662,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+120,1,6352,0.305419,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+120,2,7653,0.304537,- Distant metastasis: Present.
+120,3,4714,0.298660,"The final diagnosis is infiltrating ductal carcinoma of the breast, Nottingham grade II, with ductal carcinoma in situ and micrometastasis in the right axillary lymph node."
+121,1,6352,0.320456,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+121,2,6702,0.300587,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+121,3,2362,0.299565,- Fibrosis.
+122,1,4069,0.298428,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+122,2,1054,0.290309,4. Skin of left breast: Fibrosis.
+122,3,4909,0.289392,The remaining breast tissue shows lipomatous atrophy.
+123,1,6352,0.312738,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+123,2,5108,0.308554,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+123,3,7292,0.302934,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+124,1,7876,0.312428,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+124,2,6352,0.310971,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+124,3,5108,0.305376,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+125,1,7876,0.307993,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+125,2,637,0.303020,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+125,3,7292,0.299726,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+126,1,6352,0.302060,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+126,2,7653,0.301614,- Distant metastasis: Present.
+126,3,1371,0.299583,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+127,1,6352,0.310282,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+127,2,6702,0.298970,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+127,3,5108,0.294110,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+128,1,4909,0.301643,The remaining breast tissue shows lipomatous atrophy.
+128,2,4069,0.299063,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+128,3,1187,0.299004,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+129,1,7876,0.304490,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+129,2,6352,0.301273,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+129,3,5108,0.300608,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+130,1,7876,0.307059,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+130,2,7292,0.301576,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+130,3,5108,0.298507,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+131,1,7876,0.300891,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+131,2,637,0.295282,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+131,3,4880,0.293787,- Diagnosis: Metaplastic carcinoma.
+132,1,6352,0.313339,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+132,2,7653,0.297533,- Distant metastasis: Present.
+132,3,7876,0.294977,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+133,1,2362,0.294499,- Fibrosis.
+133,2,3749,0.293701,[name redacted].
+133,3,6352,0.292581,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+134,1,4069,0.296168,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+134,2,3892,0.293117,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+134,3,4909,0.292824,The remaining breast tissue shows lipomatous atrophy.
+135,1,7876,0.304911,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+135,2,6206,0.296903,The largest metastatic focus measures 1 cm with extracapsular extension.
+135,3,637,0.296844,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+136,1,7876,0.303307,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+136,2,637,0.302693,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+136,3,7292,0.299526,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+137,1,6352,0.308291,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+137,2,7876,0.301329,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+137,3,7947,0.295930,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+138,1,6352,0.303933,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+138,2,7653,0.295590,- Distant metastasis: Present.
+138,3,1247,0.291310,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+139,1,3749,0.289094,[name redacted].
+139,2,5815,0.288029,The margins of normal tissues were also described.
+139,3,4909,0.287491,The remaining breast tissue shows lipomatous atrophy.
+140,1,1054,0.289201,4. Skin of left breast: Fibrosis.
+140,2,6352,0.288960,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+140,3,7288,0.288442,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+141,1,7876,0.302398,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+141,2,6206,0.296735,The largest metastatic focus measures 1 cm with extracapsular extension.
+141,3,7653,0.296545,- Distant metastasis: Present.
+142,1,6352,0.301851,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+142,2,7292,0.300062,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+142,3,7876,0.297113,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+143,1,6352,0.317221,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+143,2,7292,0.300418,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+143,3,7876,0.298054,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+144,1,6352,0.313758,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+144,2,6702,0.295699,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+144,3,5108,0.294835,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+145,1,4909,0.297525,The remaining breast tissue shows lipomatous atrophy.
+145,2,4069,0.296060,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+145,3,1229,0.292116,The biopsy site showed changes consistent with fibrosis and granulation tissue.
+146,1,6352,0.303920,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+146,2,1449,0.298616,Twenty-six lymph nodes are negative for metastatic carcinoma.
+146,3,5108,0.295172,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+147,1,7876,0.300939,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+147,2,6206,0.300592,The largest metastatic focus measures 1 cm with extracapsular extension.
+147,3,1371,0.297214,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+148,1,6352,0.309849,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+148,2,7292,0.297080,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+148,3,1449,0.295474,Twenty-six lymph nodes are negative for metastatic carcinoma.
+149,1,6352,0.314803,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+149,2,7292,0.300915,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+149,3,7876,0.299898,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+150,1,6352,0.308527,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+150,2,2362,0.294653,- Fibrosis.
+150,3,5349,0.291754,- Sarcomatous: Positive.
+151,1,4069,0.298325,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+151,2,4909,0.294210,The remaining breast tissue shows lipomatous atrophy.
+151,3,3246,0.292509,"The non-neoplastic breast tissue shows ductal ectasia, fibrosis, and microcyst formation."
+152,1,6352,0.318070,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+152,2,5108,0.311136,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+152,3,1449,0.309961,Twenty-six lymph nodes are negative for metastatic carcinoma.
+153,1,7876,0.302767,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+153,2,1371,0.297339,"The report concludes by mentioning that the tumor is ER-negative, PR-positive, and HER2-equivocal."
+153,3,6206,0.296879,The largest metastatic focus measures 1 cm with extracapsular extension.
+154,1,6352,0.308631,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+154,2,5349,0.296442,- Sarcomatous: Positive.
+154,3,6925,0.295143,"- Infiltrating lobular carcinoma, Nottingham grade II."
+155,1,6352,0.312163,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+155,2,7876,0.301951,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+155,3,1247,0.295882,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+156,1,6352,0.302213,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+156,2,2362,0.295425,- Fibrosis.
+156,3,5110,0.292030,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+157,1,4909,0.304296,The remaining breast tissue shows lipomatous atrophy.
+157,2,2455,0.298583,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+157,3,4069,0.294742,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+158,1,7876,0.308892,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+158,2,7292,0.300888,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+158,3,6206,0.297325,The largest metastatic focus measures 1 cm with extracapsular extension.
+159,1,7876,0.298192,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+159,2,7292,0.297554,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+159,3,7653,0.297280,- Distant metastasis: Present.
+160,1,6352,0.309819,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+160,2,7292,0.296839,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+160,3,6925,0.295151,"- Infiltrating lobular carcinoma, Nottingham grade II."
+161,1,6352,0.320471,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+161,2,2362,0.301455,- Fibrosis.
+161,3,6702,0.300524,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+162,1,4909,0.299725,The remaining breast tissue shows lipomatous atrophy.
+162,2,5815,0.297887,The margins of normal tissues were also described.
+162,3,1656,0.297613,The Nottingham Histologic Score could not be determined due to missing information.
+163,1,2040,0.314469,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+163,2,6352,0.307228,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+163,3,6702,0.305573,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+164,1,7876,0.302516,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+164,2,6206,0.299088,The largest metastatic focus measures 1 cm with extracapsular extension.
+164,3,3914,0.294952,The largest metastasis measured 3.4 cm and had extracapsular extension.
+165,1,6352,0.294054,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+165,2,1449,0.292787,Twenty-six lymph nodes are negative for metastatic carcinoma.
+165,3,7292,0.292616,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+166,1,6352,0.321397,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+166,2,6702,0.303328,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+166,3,7947,0.301619,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+167,1,6352,0.297288,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+167,2,4069,0.293535,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+167,3,2362,0.293464,- Fibrosis.
+168,1,4909,0.306083,The remaining breast tissue shows lipomatous atrophy.
+168,2,1187,0.305971,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+168,3,1258,0.302208,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+169,1,6352,0.315915,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+169,2,6702,0.307818,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+169,3,7292,0.307169,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+170,1,7876,0.305452,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+170,2,6206,0.298828,The largest metastatic focus measures 1 cm with extracapsular extension.
+170,3,7292,0.298053,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+171,1,6352,0.296346,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+171,2,2033,0.294783,- Extensive vascular invasion.
+171,3,4572,0.293369,There are no identified masses or areas of fibrosis.
+172,1,6352,0.324879,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+172,2,6702,0.307085,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+172,3,7947,0.298424,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+173,1,5815,0.298711,The margins of normal tissues were also described.
+173,2,4909,0.297125,The remaining breast tissue shows lipomatous atrophy.
+173,3,1656,0.295906,The Nottingham Histologic Score could not be determined due to missing information.
+174,1,2455,0.312038,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+174,2,2040,0.310045,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+174,3,1954,0.303353,- Multifocal fat necrosis.
+175,1,6352,0.309325,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+175,2,7876,0.305425,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+175,3,7292,0.301080,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+176,1,6352,0.308037,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+176,2,2362,0.294928,- Fibrosis.
+176,3,2033,0.293074,- Extensive vascular invasion.
+177,1,6352,0.316764,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+177,2,6702,0.298246,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+177,3,6925,0.297217,"- Infiltrating lobular carcinoma, Nottingham grade II."
+178,1,6352,0.317877,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+178,2,6702,0.302637,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+178,3,2362,0.302469,- Fibrosis.
+179,1,4069,0.298556,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+179,2,5815,0.298138,The margins of normal tissues were also described.
+179,3,4909,0.293971,The remaining breast tissue shows lipomatous atrophy.
+180,1,6352,0.322642,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+180,2,5108,0.308696,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+180,3,2040,0.307254,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+181,1,6352,0.320437,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+181,2,6206,0.301891,The largest metastatic focus measures 1 cm with extracapsular extension.
+181,3,7876,0.300054,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+182,1,4880,0.293505,- Diagnosis: Metaplastic carcinoma.
+182,2,6352,0.292738,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+182,3,4572,0.291894,There are no identified masses or areas of fibrosis.
+183,1,6352,0.317872,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+183,2,5108,0.297114,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+183,3,6702,0.295704,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+184,1,4069,0.295468,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+184,2,2362,0.293208,- Fibrosis.
+184,3,3246,0.292578,"The non-neoplastic breast tissue shows ductal ectasia, fibrosis, and microcyst formation."
+185,1,4909,0.302641,The remaining breast tissue shows lipomatous atrophy.
+185,2,6352,0.298163,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+185,3,6702,0.298155,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+186,1,6352,0.312318,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+186,2,7876,0.305617,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+186,3,637,0.302016,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+187,1,6352,0.321837,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+187,2,1098,0.299365,- Lymphatic-vascular Invasion: None.
+187,3,637,0.298661,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+188,1,7678,0.298012,One lymph node has a 0/1 (TCGA-EW-A12-914-PR).
+188,2,7292,0.297126,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+188,3,637,0.296962,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+189,1,6352,0.315687,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+189,2,2362,0.299502,- Fibrosis.
+189,3,6702,0.296905,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+190,1,4909,0.296476,The remaining breast tissue shows lipomatous atrophy.
+190,2,6544,0.292535,1. Left Breast:.
+190,3,6537,0.292535,1. Left Breast:.
+191,1,6352,0.316642,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+191,2,5108,0.310655,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+191,3,7292,0.307506,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+192,1,6352,0.318336,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+192,2,6702,0.302941,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+192,3,7653,0.296564,- Distant metastasis: Present.
+193,1,6352,0.299978,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+193,2,7876,0.296444,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+193,3,637,0.296213,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+194,1,6352,0.303066,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+194,2,7876,0.302641,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+194,3,7292,0.298238,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+195,1,6352,0.312683,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+195,2,1054,0.301771,4. Skin of left breast: Fibrosis.
+195,3,2362,0.300539,- Fibrosis.
+196,1,4909,0.309278,The remaining breast tissue shows lipomatous atrophy.
+196,2,1187,0.300999,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+196,3,1351,0.295666,Additional right breast tissue in the superficial region shows no evidence of carcinoma in the fibroadipose tissue.
+197,1,7876,0.305995,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+197,2,7292,0.302236,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+197,3,5108,0.301369,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+198,1,6352,0.318124,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+198,2,7876,0.303876,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+198,3,6702,0.299591,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+199,1,6352,0.315489,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+199,2,7876,0.300446,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+199,3,7292,0.297992,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+200,1,6352,0.319953,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+200,2,6702,0.296083,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+200,3,6925,0.295512,"- Infiltrating lobular carcinoma, Nottingham grade II."
+201,1,1258,0.298738,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+201,2,2334,0.296426,There is no information regarding neo-adjuvant treatment or any additional pathological findings.
+201,3,1758,0.296071,A tumor was found on the right breast.
+202,1,2040,0.306083,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+202,2,6702,0.303444,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+202,3,7239,0.300377,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+203,1,7876,0.301162,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+203,2,6352,0.297617,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+203,3,7653,0.297070,- Distant metastasis: Present.
+204,1,6352,0.328200,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+204,2,6702,0.303791,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+204,3,7947,0.299526,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+205,1,6352,0.312572,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+205,2,7876,0.307508,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+205,3,6206,0.302330,The largest metastatic focus measures 1 cm with extracapsular extension.
+206,1,6352,0.322460,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+206,2,6702,0.303563,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+206,3,1054,0.296172,4. Skin of left breast: Fibrosis.
+207,1,4909,0.292859,The remaining breast tissue shows lipomatous atrophy.
+207,2,6544,0.290595,1. Left Breast:.
+207,3,6537,0.290595,1. Left Breast:.
+208,1,6352,0.312706,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+208,2,6702,0.307742,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+208,3,1449,0.307532,Twenty-six lymph nodes are negative for metastatic carcinoma.
+209,1,7653,0.300010,- Distant metastasis: Present.
+209,2,7876,0.299275,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+209,3,6352,0.299137,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+210,1,6352,0.325920,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+210,2,7947,0.301196,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+210,3,7876,0.299600,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+211,1,6352,0.308799,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+211,2,7876,0.301169,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+211,3,7292,0.296547,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+212,1,6352,0.315024,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+212,2,6702,0.301831,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+212,3,6925,0.299755,"- Infiltrating lobular carcinoma, Nottingham grade II."
+213,1,4909,0.302926,The remaining breast tissue shows lipomatous atrophy.
+213,2,1187,0.298184,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+213,3,1656,0.294981,The Nottingham Histologic Score could not be determined due to missing information.
+214,1,6352,0.314277,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+214,2,7292,0.304632,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+214,3,5108,0.303387,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+215,1,6352,0.315311,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+215,2,7876,0.300659,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+215,3,6702,0.298503,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+216,1,6352,0.320484,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+216,2,7876,0.299963,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+216,3,7292,0.295022,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+217,1,6352,0.324792,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+217,2,6702,0.306866,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+217,3,7292,0.297400,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+218,1,6352,0.290756,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+218,2,7288,0.289087,"- Invasive Lobular Carcinoma, Nottingham grade 3, measuring 3.3 cm in size and involving the nipple dermis."
+218,3,5349,0.288986,- Sarcomatous: Positive.
+219,1,4909,0.307886,The remaining breast tissue shows lipomatous atrophy.
+219,2,1187,0.304366,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+219,3,1656,0.298924,The Nottingham Histologic Score could not be determined due to missing information.
+220,1,6352,0.308489,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+220,2,7876,0.307544,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+220,3,7292,0.303369,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+221,1,6352,0.329394,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+221,2,6702,0.303982,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+221,3,7681,0.296813,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+222,1,6352,0.313628,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+222,2,7876,0.300454,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+222,3,7292,0.296600,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+223,1,6352,0.315262,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+223,2,1054,0.295654,4. Skin of left breast: Fibrosis.
+223,3,2362,0.292714,- Fibrosis.
+224,1,6352,0.297133,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+224,2,6925,0.295546,"- Infiltrating lobular carcinoma, Nottingham grade II."
+224,3,2362,0.294872,- Fibrosis.
+225,1,2040,0.313574,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+225,2,4909,0.306085,The remaining breast tissue shows lipomatous atrophy.
+225,3,1187,0.305166,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+226,1,6352,0.311763,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+226,2,7876,0.305592,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+226,3,7292,0.298680,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+227,1,6352,0.321581,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+227,2,6702,0.299065,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+227,3,7876,0.296510,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+228,1,6352,0.315009,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+228,2,7876,0.305196,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+228,3,7292,0.296331,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+229,1,6352,0.315843,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+229,2,6702,0.297434,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+229,3,2033,0.293249,- Extensive vascular invasion.
+230,1,1258,0.305348,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+230,2,7564,0.300855,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+230,3,1758,0.300482,A tumor was found on the right breast.
+231,1,6352,0.318634,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+231,2,6702,0.309641,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+231,3,7681,0.305187,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+232,1,7876,0.303998,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+232,2,6352,0.303962,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+232,3,6206,0.297695,The largest metastatic focus measures 1 cm with extracapsular extension.
+233,1,6352,0.314621,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+233,2,7876,0.303251,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+233,3,7292,0.295680,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+234,1,6352,0.313252,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+234,2,7876,0.300591,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+234,3,6702,0.293077,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+235,1,6352,0.326481,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+235,2,6702,0.302851,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+235,3,7876,0.297474,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+236,1,4909,0.298691,The remaining breast tissue shows lipomatous atrophy.
+236,2,1187,0.296401,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+236,3,7564,0.293779,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+237,1,6352,0.307638,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+237,2,7876,0.306893,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+237,3,637,0.305396,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+238,1,6352,0.302800,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+238,2,7876,0.302740,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+238,3,6206,0.295623,The largest metastatic focus measures 1 cm with extracapsular extension.
+239,1,6352,0.323893,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+239,2,7876,0.295502,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+239,3,6702,0.295170,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+240,1,6352,0.321075,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+240,2,6702,0.300409,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+240,3,7947,0.298154,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+241,1,6352,0.324354,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+241,2,6702,0.309302,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+241,3,1258,0.303214,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+242,1,1187,0.309247,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+242,2,4909,0.308994,The remaining breast tissue shows lipomatous atrophy.
+242,3,7564,0.303720,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+243,1,7876,0.303046,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+243,2,6352,0.297934,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+243,3,637,0.297031,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+244,1,6352,0.315780,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+244,2,7947,0.298272,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+244,3,6702,0.297387,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+245,1,6352,0.323901,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+245,2,7947,0.299380,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+245,3,7876,0.297937,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+246,1,6352,0.319309,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+246,2,7876,0.295049,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+246,3,7043,0.294701,"The tumor is classified as invasive lobular breast carcinoma, G II."
+247,1,6352,0.303349,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+247,2,1258,0.302557,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+247,3,7564,0.301237,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+248,1,6352,0.323339,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+248,2,5108,0.307732,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+248,3,7292,0.307545,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+249,1,6352,0.307781,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+249,2,7876,0.304676,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+249,3,7292,0.294987,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+250,1,6352,0.322098,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+250,2,6702,0.297150,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+250,3,7947,0.296887,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+251,1,6352,0.327169,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+251,2,7043,0.297342,"The tumor is classified as invasive lobular breast carcinoma, G II."
+251,3,5349,0.297126,- Sarcomatous: Positive.
+252,1,6352,0.325323,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+252,2,2362,0.298555,- Fibrosis.
+252,3,5349,0.293156,- Sarcomatous: Positive.
+253,1,6352,0.306047,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+253,2,5108,0.301835,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+253,3,1449,0.301464,Twenty-six lymph nodes are negative for metastatic carcinoma.
+254,1,7876,0.299948,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+254,2,6352,0.297739,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+254,3,637,0.295045,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+255,1,6352,0.321416,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+255,2,7876,0.300370,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+255,3,6702,0.299239,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+256,1,6352,0.316310,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+256,2,5349,0.295832,- Sarcomatous: Positive.
+256,3,2033,0.293976,- Extensive vascular invasion.
+257,1,6352,0.326586,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+257,2,7681,0.301084,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+257,3,6702,0.298216,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+258,1,6352,0.304871,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+258,2,5110,0.297889,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+258,3,5954,0.295092,There is no skeletal muscle present.
+259,1,637,0.299414,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+259,2,7876,0.298518,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+259,3,7292,0.296466,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+260,1,6352,0.315520,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+260,2,7876,0.300269,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+260,3,637,0.297660,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+261,1,6352,0.320747,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+261,2,7876,0.297229,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+261,3,7947,0.295663,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+262,1,6352,0.312376,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+262,2,2362,0.299848,- Fibrosis.
+262,3,5349,0.296398,- Sarcomatous: Positive.
+263,1,6352,0.317409,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+263,2,5110,0.294123,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+263,3,2362,0.293711,- Fibrosis.
+264,1,1449,0.307879,Twenty-six lymph nodes are negative for metastatic carcinoma.
+264,2,5108,0.307871,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+264,3,1247,0.306024,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+265,1,7876,0.304779,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+265,2,6352,0.304472,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+265,3,7292,0.299156,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+266,1,6352,0.315899,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+266,2,7681,0.297726,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+266,3,6702,0.297239,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+267,1,6352,0.321273,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+267,2,5108,0.294833,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+267,3,2033,0.294377,- Extensive vascular invasion.
+268,1,6352,0.312244,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+268,2,5110,0.293658,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+268,3,5349,0.292571,- Sarcomatous: Positive.
+269,1,6352,0.314030,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+269,2,5108,0.305112,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+269,3,1449,0.302583,Twenty-six lymph nodes are negative for metastatic carcinoma.
+270,1,7876,0.300322,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+270,2,7653,0.296170,- Distant metastasis: Present.
+270,3,7292,0.295518,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+271,1,6352,0.301803,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+271,2,7681,0.295387,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+271,3,1449,0.293849,Twenty-six lymph nodes are negative for metastatic carcinoma.
+272,1,6352,0.326516,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+272,2,7947,0.297446,"The diagnosis includes invasive lobular carcinoma, SBR grade II, and lobular carcinoma in situ."
+272,3,6427,0.296435,"- Three focal areas of invasive lobular carcinoma, with sizes ranging from 2.9 cm to 0.2 cm."
+273,1,6352,0.308189,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+273,2,5110,0.295302,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+273,3,2362,0.295197,- Fibrosis.
+274,1,6352,0.313957,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+274,2,5110,0.292351,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+274,3,2362,0.291039,- Fibrosis.
+275,1,7292,0.308821,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+275,2,5108,0.307988,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+275,3,7876,0.305557,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+276,1,6352,0.299654,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+276,2,1449,0.298084,Twenty-six lymph nodes are negative for metastatic carcinoma.
+276,3,7043,0.295631,"The tumor is classified as invasive lobular breast carcinoma, G II."
+277,1,6352,0.323294,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+277,2,7876,0.300081,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+277,3,1449,0.298639,Twenty-six lymph nodes are negative for metastatic carcinoma.
+278,1,6352,0.311601,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+278,2,5349,0.298543,- Sarcomatous: Positive.
+278,3,2362,0.294628,- Fibrosis.
+279,1,6352,0.307534,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+279,2,5110,0.293693,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+279,3,5954,0.292498,There is no skeletal muscle present.
+280,1,5802,0.293913,The lymph node biopsy showed fibroadipose tissue and no lymphatic tissue.
+280,2,1721,0.292824,The intraoperative frozen section diagnosis confirms the presence of carcinoma involving the skeletal muscle.
+280,3,6566,0.292070,Minimal axillary tissue is present and no lymph nodes are identified.
+281,1,7876,0.300368,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+281,2,637,0.298913,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+281,3,7292,0.292779,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+282,1,6352,0.294681,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+282,2,1449,0.291060,Twenty-six lymph nodes are negative for metastatic carcinoma.
+282,3,7681,0.290800,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+283,1,6352,0.323772,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+283,2,7876,0.299700,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+283,3,6702,0.298295,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+284,1,6352,0.296309,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+284,2,3892,0.295854,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+284,3,5110,0.294758,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+285,1,6352,0.307748,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+285,2,6993,0.290480,Left breast lumpectomy: Moderate differentiated invasive lobular carcinoma.
+285,3,7529,0.290066,"In the left breast lumpectomy, there was invasive lobular carcinoma that was moderately differentiated, with a Nottingham grade of 2."
+286,1,1449,0.306397,Twenty-six lymph nodes are negative for metastatic carcinoma.
+286,2,6352,0.305964,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+286,3,5108,0.301761,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+287,1,7292,0.300730,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+287,2,7876,0.298927,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+287,3,637,0.297502,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+288,1,6352,0.316798,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+288,2,1449,0.299050,Twenty-six lymph nodes are negative for metastatic carcinoma.
+288,3,6702,0.297685,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+289,1,6352,0.308478,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+289,2,2362,0.297455,- Fibrosis.
+289,3,5349,0.294636,- Sarcomatous: Positive.
+290,1,6352,0.294636,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+290,2,3892,0.290951,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+290,3,4069,0.290164,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+291,1,6352,0.307891,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+291,2,5954,0.292157,There is no skeletal muscle present.
+291,3,3246,0.291291,"The non-neoplastic breast tissue shows ductal ectasia, fibrosis, and microcyst formation."
+292,1,6352,0.311433,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+292,2,7292,0.309377,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+292,3,5108,0.308956,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+293,1,6352,0.294685,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+293,2,4620,0.291838,There are also findings of fibroadenomata and stromal fibrosis.
+293,3,7681,0.291786,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+294,1,6352,0.328975,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+294,2,6702,0.300140,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+294,3,7681,0.299967,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+295,1,6352,0.294670,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+295,2,3892,0.288902,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+295,3,2362,0.287972,- Fibrosis.
+296,1,6352,0.291719,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+296,2,3892,0.286496,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+296,3,5110,0.285373,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+297,1,6352,0.311896,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+297,2,7529,0.298311,"In the left breast lumpectomy, there was invasive lobular carcinoma that was moderately differentiated, with a Nottingham grade of 2."
+297,3,7564,0.298301,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+298,1,6352,0.306849,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+298,2,7876,0.304634,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+298,3,7292,0.301728,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+299,1,6352,0.303780,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+299,2,7681,0.295545,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+299,3,7043,0.291572,"The tumor is classified as invasive lobular breast carcinoma, G II."
+300,1,6352,0.319294,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+300,2,5349,0.297523,- Sarcomatous: Positive.
+300,3,2033,0.296666,- Extensive vascular invasion.
+301,1,6352,0.294870,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+301,2,3892,0.293955,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+301,3,5349,0.289705,- Sarcomatous: Positive.
+302,1,6352,0.304637,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+302,2,5110,0.289077,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+302,3,7654,0.289042,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+303,1,6352,0.313234,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+303,2,7292,0.306760,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+303,3,1449,0.306192,Twenty-six lymph nodes are negative for metastatic carcinoma.
+304,1,6352,0.308725,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+304,2,7292,0.300668,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+304,3,1449,0.297224,Twenty-six lymph nodes are negative for metastatic carcinoma.
+305,1,6352,0.324781,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+305,2,6702,0.304283,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+305,3,7681,0.300829,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+306,1,6352,0.306645,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+306,2,5349,0.295084,- Sarcomatous: Positive.
+306,3,2033,0.294208,- Extensive vascular invasion.
+307,1,6352,0.301316,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+307,2,3892,0.290984,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+307,3,7654,0.290429,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+308,1,6352,0.319986,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+308,2,6702,0.298609,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+308,3,1258,0.297414,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+309,1,637,0.300220,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+309,2,7876,0.299195,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+309,3,7292,0.297325,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+310,1,6352,0.313295,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+310,2,7681,0.301098,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+310,3,6702,0.297168,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+311,1,6352,0.316376,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+311,2,2033,0.296514,- Extensive vascular invasion.
+311,3,7681,0.295706,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+312,1,6352,0.296924,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+312,2,3892,0.291839,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+312,3,5110,0.288252,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+313,1,6352,0.312467,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+313,2,2362,0.290259,- Fibrosis.
+313,3,3345,0.289869,"There were fourteen lymph nodes in the right axilla, all of which were negative for tumor."
+314,1,7292,0.311097,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+314,2,1449,0.310814,Twenty-six lymph nodes are negative for metastatic carcinoma.
+314,3,5108,0.307703,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+315,1,6352,0.303926,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+315,2,7876,0.303330,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+315,3,637,0.300972,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+316,1,6352,0.311518,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+316,2,7681,0.296934,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+316,3,6518,0.292507,"The main tumor is a 57 mm invasive lobular carcinoma, Nottingham grade 2."
+317,1,6352,0.306332,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+317,2,2362,0.300011,- Fibrosis.
+317,3,5110,0.298591,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+318,1,6352,0.303292,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+318,2,5349,0.288531,- Sarcomatous: Positive.
+318,3,3194,0.287880,4. Invasive tumor extends to the superior margin but is margin-free.
+319,1,6352,0.320254,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+319,2,6702,0.306014,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+319,3,1449,0.302622,Twenty-six lymph nodes are negative for metastatic carcinoma.
+320,1,7876,0.304805,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+320,2,4530,0.298362,"In the examination of the right axillary contents, 12 out of 22 lymph nodes were positive for metastatic carcinoma, with focal extranodal involvement identified."
+320,3,6206,0.297950,The largest metastatic focus measures 1 cm with extracapsular extension.
+321,1,6352,0.310870,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+321,2,637,0.299996,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+321,3,7876,0.299846,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+322,1,6352,0.302568,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+322,2,5110,0.294058,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+322,3,2362,0.293859,- Fibrosis.
+323,1,6352,0.294768,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+323,2,5110,0.293479,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+323,3,3892,0.290696,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+324,1,6352,0.317006,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+324,2,7529,0.294425,"In the left breast lumpectomy, there was invasive lobular carcinoma that was moderately differentiated, with a Nottingham grade of 2."
+324,3,4620,0.294288,There are also findings of fibroadenomata and stromal fibrosis.
+325,1,1449,0.309057,Twenty-six lymph nodes are negative for metastatic carcinoma.
+325,2,5108,0.304910,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+325,3,7292,0.304535,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+326,1,7876,0.303696,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+326,2,637,0.297436,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+326,3,6352,0.294993,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+327,1,6352,0.304822,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+327,2,3892,0.292652,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+327,3,2362,0.292592,- Fibrosis.
+328,1,6352,0.304994,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+328,2,2362,0.295004,- Fibrosis.
+328,3,3892,0.292627,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+329,1,6352,0.298840,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+329,2,7654,0.287290,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+329,3,5349,0.287276,- Sarcomatous: Positive.
+330,1,6352,0.311138,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+330,2,1449,0.309611,Twenty-six lymph nodes are negative for metastatic carcinoma.
+330,3,5108,0.305876,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+331,1,7876,0.299699,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+331,2,637,0.295610,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+331,3,7292,0.292880,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+332,1,6352,0.320303,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+332,2,1247,0.299682,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+332,3,7292,0.299382,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+333,1,6352,0.306775,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+333,2,2362,0.292960,- Fibrosis.
+333,3,5349,0.291982,- Sarcomatous: Positive.
+334,1,6352,0.300547,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+334,2,2362,0.291191,- Fibrosis.
+334,3,4069,0.289885,The nipple and other glandular tissue are tumor-free with fibrocystic mammopathy.
+335,1,6352,0.306673,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+335,2,1449,0.297418,Twenty-six lymph nodes are negative for metastatic carcinoma.
+335,3,3892,0.295915,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+336,1,7876,0.301210,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+336,2,7292,0.292664,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+336,3,3914,0.291087,The largest metastasis measured 3.4 cm and had extracapsular extension.
+337,1,6352,0.306880,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+337,2,7292,0.298760,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+337,3,7876,0.297934,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+338,1,6352,0.308182,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+338,2,3892,0.294384,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+338,3,3345,0.289299,"There were fourteen lymph nodes in the right axilla, all of which were negative for tumor."
+339,1,6352,0.298394,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+339,2,3194,0.290112,4. Invasive tumor extends to the superior margin but is margin-free.
+339,3,3892,0.288824,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+340,1,6352,0.300793,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+340,2,4891,0.291100,- Treatment: None.
+340,3,137,0.291100,- Treatment: None.
+341,1,5108,0.304492,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+341,2,1449,0.303748,Twenty-six lymph nodes are negative for metastatic carcinoma.
+341,3,7292,0.302639,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+342,1,6352,0.301102,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+342,2,7876,0.299599,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+342,3,7653,0.297736,- Distant metastasis: Present.
+343,1,6352,0.314391,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+343,2,5349,0.297079,- Sarcomatous: Positive.
+343,3,6925,0.295018,"- Infiltrating lobular carcinoma, Nottingham grade II."
+344,1,6352,0.306057,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+344,2,3194,0.290231,4. Invasive tumor extends to the superior margin but is margin-free.
+344,3,7681,0.289428,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+345,1,6352,0.317768,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+345,2,7654,0.292108,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+345,3,5349,0.290932,- Sarcomatous: Positive.
+346,1,1449,0.306773,Twenty-six lymph nodes are negative for metastatic carcinoma.
+346,2,5108,0.306444,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+346,3,4231,0.305977,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+347,1,6352,0.309467,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+347,2,7876,0.307430,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+347,3,7292,0.304166,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+348,1,6352,0.312212,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+348,2,7121,0.300648,- The final diagnosis is infiltrating lobular carcinoma with focal lobular carcinoma in situ and cancerization of terminal ducts.
+348,3,1247,0.300146,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+349,1,6352,0.318842,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+349,2,7043,0.295341,"The tumor is classified as invasive lobular breast carcinoma, G II."
+349,3,7121,0.294381,- The final diagnosis is infiltrating lobular carcinoma with focal lobular carcinoma in situ and cancerization of terminal ducts.
+350,1,6352,0.309229,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+350,2,4620,0.287787,There are also findings of fibroadenomata and stromal fibrosis.
+350,3,5349,0.287529,- Sarcomatous: Positive.
+351,1,4909,0.305686,The remaining breast tissue shows lipomatous atrophy.
+351,2,6702,0.301449,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+351,3,7564,0.301291,"Infiltrating lobular carcinoma, Nottingham grade I, was identified in the left breast, and lobular carcinoma in situ was also present."
+352,1,5108,0.309868,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+352,2,6352,0.308958,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+352,3,4231,0.306042,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+353,1,6352,0.319420,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+353,2,637,0.306981,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+353,3,7292,0.302351,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+354,1,6352,0.317355,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+354,2,7121,0.297589,- The final diagnosis is infiltrating lobular carcinoma with focal lobular carcinoma in situ and cancerization of terminal ducts.
+354,3,6702,0.296573,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+355,1,6352,0.316232,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+355,2,3892,0.294792,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+355,3,7681,0.293324,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+356,1,6352,0.318551,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+356,2,1054,0.292968,4. Skin of left breast: Fibrosis.
+356,3,2362,0.292869,- Fibrosis.
+357,1,4909,0.301072,The remaining breast tissue shows lipomatous atrophy.
+357,2,6566,0.296023,Minimal axillary tissue is present and no lymph nodes are identified.
+357,3,3632,0.295191,"The HER-2/NEU testing was negative, but it will be repeated due to possible differences in fixation."
+358,1,2455,0.321930,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+358,2,2040,0.314595,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+358,3,1954,0.305663,- Multifocal fat necrosis.
+359,1,6352,0.319124,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+359,2,637,0.307092,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+359,3,7292,0.307016,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+360,1,6352,0.324689,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+360,2,6702,0.303606,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+360,3,7681,0.301975,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+361,1,6352,0.313182,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+361,2,3892,0.291946,"- The re-excision of the posterior margin of the left breast shows skeletal muscle and fibroadipose tissue, with no carcinoma identified."
+361,3,5110,0.288438,"- Skeletal muscle and fibroadipose tissue, negative for carcinoma."
+362,1,6352,0.313615,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+362,2,7654,0.294694,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+362,3,4620,0.292869,There are also findings of fibroadenomata and stromal fibrosis.
+363,1,4909,0.295774,The remaining breast tissue shows lipomatous atrophy.
+363,2,6566,0.293845,Minimal axillary tissue is present and no lymph nodes are identified.
+363,3,3749,0.291566,[name redacted].
+364,1,2455,0.311943,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+364,2,4909,0.304172,The remaining breast tissue shows lipomatous atrophy.
+364,3,1954,0.302155,- Multifocal fat necrosis.
+365,1,6352,0.322190,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+365,2,1449,0.306932,Twenty-six lymph nodes are negative for metastatic carcinoma.
+365,3,7292,0.306589,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+366,1,6352,0.322941,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+366,2,7681,0.297080,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+366,3,6702,0.297048,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+367,1,6352,0.323033,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+367,2,1098,0.296754,- Lymphatic-vascular Invasion: None.
+367,3,7681,0.296084,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+368,1,6352,0.308164,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+368,2,2362,0.291704,- Fibrosis.
+368,3,7654,0.291214,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+369,1,6352,0.306463,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+369,2,5108,0.292755,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+369,3,6702,0.292078,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+370,1,4909,0.311905,The remaining breast tissue shows lipomatous atrophy.
+370,2,6533,0.301805,"Additionally, a diffusely cauterized and fragmented right breast tissue specimen was received, showing a soft, lobulated tan gold-white portion of adipose tissue."
+370,3,6566,0.299983,Minimal axillary tissue is present and no lymph nodes are identified.
+371,1,2455,0.321764,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+371,2,2040,0.306337,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+371,3,1954,0.304397,- Multifocal fat necrosis.
+372,1,7876,0.302143,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+372,2,637,0.301058,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+372,3,7292,0.299016,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+373,1,6352,0.326461,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+373,2,7121,0.301047,- The final diagnosis is infiltrating lobular carcinoma with focal lobular carcinoma in situ and cancerization of terminal ducts.
+373,3,7292,0.298782,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+374,1,6352,0.324203,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+374,2,2280,0.294429,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+374,3,7043,0.292880,"The tumor is classified as invasive lobular breast carcinoma, G II."
+375,1,6352,0.323741,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+375,2,7043,0.295619,"The tumor is classified as invasive lobular breast carcinoma, G II."
+375,3,7681,0.295499,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+376,1,4909,0.303959,The remaining breast tissue shows lipomatous atrophy.
+376,2,2334,0.296886,There is no information regarding neo-adjuvant treatment or any additional pathological findings.
+376,3,6118,0.291952,The treatment effect is not specified.
+377,1,2455,0.317180,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+377,2,1954,0.303633,- Multifocal fat necrosis.
+377,3,4909,0.298896,The remaining breast tissue shows lipomatous atrophy.
+378,1,5108,0.311276,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+378,2,1449,0.309701,Twenty-six lymph nodes are negative for metastatic carcinoma.
+378,3,7292,0.309620,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+379,1,6352,0.312247,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+379,2,7292,0.305170,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+379,3,637,0.304200,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+380,1,6352,0.321078,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+380,2,2280,0.299460,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+380,3,7121,0.295974,- The final diagnosis is infiltrating lobular carcinoma with focal lobular carcinoma in situ and cancerization of terminal ducts.
+381,1,6352,0.319048,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+381,2,2033,0.291193,- Extensive vascular invasion.
+381,3,7043,0.290907,"The tumor is classified as invasive lobular breast carcinoma, G II."
+382,1,6352,0.301910,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+382,2,1258,0.293920,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+382,3,3345,0.293429,"There were fourteen lymph nodes in the right axilla, all of which were negative for tumor."
+383,1,4909,0.301617,The remaining breast tissue shows lipomatous atrophy.
+383,2,6566,0.298805,Minimal axillary tissue is present and no lymph nodes are identified.
+383,3,1656,0.295367,The Nottingham Histologic Score could not be determined due to missing information.
+384,1,2455,0.316912,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+384,2,4231,0.306169,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+384,3,7239,0.305929,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+385,1,637,0.299326,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+385,2,7292,0.298982,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+385,3,7876,0.298777,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+386,1,6352,0.312798,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+386,2,637,0.300480,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+386,3,2280,0.296657,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+387,1,6352,0.330063,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+387,2,7043,0.297251,"The tumor is classified as invasive lobular breast carcinoma, G II."
+387,3,2280,0.296892,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+388,1,6352,0.310401,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+388,2,7043,0.294005,"The tumor is classified as invasive lobular breast carcinoma, G II."
+388,3,7654,0.293413,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+389,1,4909,0.295462,The remaining breast tissue shows lipomatous atrophy.
+389,2,5815,0.292748,The margins of normal tissues were also described.
+389,3,1721,0.292618,The intraoperative frozen section diagnosis confirms the presence of carcinoma involving the skeletal muscle.
+390,1,2455,0.310674,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+390,2,1449,0.310502,Twenty-six lymph nodes are negative for metastatic carcinoma.
+390,3,5108,0.310268,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+391,1,7292,0.314106,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+391,2,5108,0.313658,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+391,3,7876,0.308594,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+392,1,6352,0.315680,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+392,2,7292,0.303628,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+392,3,637,0.300594,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+393,1,6352,0.326934,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+393,2,2280,0.305434,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+393,3,637,0.298682,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+394,1,6352,0.317756,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+394,2,7681,0.296081,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+394,3,1054,0.294576,4. Skin of left breast: Fibrosis.
+395,1,6352,0.297315,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+395,2,6925,0.297100,"- Infiltrating lobular carcinoma, Nottingham grade II."
+395,3,6702,0.296955,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+396,1,5108,0.300467,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+396,2,6566,0.300028,Minimal axillary tissue is present and no lymph nodes are identified.
+396,3,1449,0.299060,Twenty-six lymph nodes are negative for metastatic carcinoma.
+397,1,5108,0.316143,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+397,2,1449,0.310030,Twenty-six lymph nodes are negative for metastatic carcinoma.
+397,3,4231,0.308357,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+398,1,7876,0.301786,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+398,2,7653,0.298277,- Distant metastasis: Present.
+398,3,7292,0.296513,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+399,1,6352,0.321515,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+399,2,7876,0.306384,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+399,3,2280,0.304117,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+400,1,6352,0.309904,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+400,2,7681,0.292534,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+400,3,6993,0.291260,Left breast lumpectomy: Moderate differentiated invasive lobular carcinoma.
+401,1,6352,0.313451,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+401,2,7654,0.303458,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+401,3,6702,0.302785,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+402,1,4909,0.291667,The remaining breast tissue shows lipomatous atrophy.
+402,2,3803,0.289048,Ancillary studies:.
+402,3,398,0.288647,The tissue specimen was frozen for examination.
+403,1,5108,0.320731,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+403,2,7239,0.314722,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+403,3,2455,0.314423,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+404,1,7876,0.301256,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+404,2,7292,0.299160,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+404,3,6352,0.299011,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+405,1,6352,0.308664,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+405,2,7876,0.303334,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+405,3,637,0.303244,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+406,1,6352,0.322455,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+406,2,2280,0.295717,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+406,3,2033,0.294507,- Extensive vascular invasion.
+407,1,6352,0.317526,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+407,2,7681,0.299748,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+407,3,7654,0.299643,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+408,1,4909,0.298310,The remaining breast tissue shows lipomatous atrophy.
+408,2,1758,0.290407,A tumor was found on the right breast.
+408,3,3803,0.290390,Ancillary studies:.
+409,1,2455,0.318438,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+409,2,7239,0.316951,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+409,3,2040,0.313450,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+410,1,6352,0.320401,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+410,2,7876,0.304239,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+410,3,5108,0.301160,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+411,1,6352,0.313111,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+411,2,2280,0.300940,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+411,3,7876,0.299138,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+412,1,6352,0.319273,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+412,2,2033,0.293878,- Extensive vascular invasion.
+412,3,7681,0.293040,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+413,1,6352,0.319769,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+413,2,6702,0.302722,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+413,3,7681,0.300738,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+414,1,4909,0.301142,The remaining breast tissue shows lipomatous atrophy.
+414,2,398,0.289810,The tissue specimen was frozen for examination.
+414,3,2455,0.288479,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+415,1,2455,0.327828,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+415,2,1954,0.307541,- Multifocal fat necrosis.
+415,3,6289,0.307472,The specimen consists of a mass composed of firm white tissue with areas of adipose tissue.
+416,1,6352,0.321497,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+416,2,7292,0.306018,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+416,3,5108,0.305979,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+417,1,6352,0.320231,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+417,2,7292,0.306016,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+417,3,7876,0.305055,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+418,1,6352,0.321552,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+418,2,7681,0.294894,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+418,3,1054,0.294691,4. Skin of left breast: Fibrosis.
+419,1,6352,0.316440,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+419,2,1758,0.305221,A tumor was found on the right breast.
+419,3,6702,0.302181,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+420,1,2040,0.305761,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+420,2,2455,0.299450,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+420,3,4909,0.298915,The remaining breast tissue shows lipomatous atrophy.
+421,1,2455,0.315606,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+421,2,4231,0.309087,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+421,3,7239,0.307448,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+422,1,6352,0.328109,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+422,2,7292,0.309704,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+422,3,7876,0.307891,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+423,1,6352,0.319856,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+423,2,7876,0.303938,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+423,3,7292,0.302902,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+424,1,6352,0.325809,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+424,2,2280,0.299848,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+424,3,7681,0.298821,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+425,1,1758,0.302904,A tumor was found on the right breast.
+425,2,1258,0.301743,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+425,3,1187,0.300825,"The patient had a simple mastectomy for a 2.3 x 1.8 x 1.5 cm mass in the left breast, which was determined to be infiltrating ductal carcinoma, Nottingham grade III."
+426,1,2455,0.306619,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+426,2,2040,0.299738,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+426,3,1954,0.296327,- Multifocal fat necrosis.
+427,1,6352,0.322543,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+427,2,5108,0.314130,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+427,3,6364,0.313256,"Lymph nodes in the axillary fatty tissue show signs of lipomatosis, suggesting the presence of metastases."
+428,1,6352,0.324820,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+428,2,6702,0.307217,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+428,3,7292,0.306113,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+429,1,6352,0.320478,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+429,2,2280,0.303310,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+429,3,6206,0.299533,The largest metastatic focus measures 1 cm with extracapsular extension.
+430,1,6352,0.322515,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+430,2,2280,0.301188,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+430,3,7876,0.298752,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+431,1,4909,0.303409,The remaining breast tissue shows lipomatous atrophy.
+431,2,2040,0.296960,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+431,3,6566,0.295941,Minimal axillary tissue is present and no lymph nodes are identified.
+432,1,2455,0.320812,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+432,2,2040,0.306123,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+432,3,4531,0.301550,"The right posterior margin mainly consisted of adipose tissue with calcification of the vessel wall, and no tumor was identified."
+433,1,6352,0.327985,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+433,2,5108,0.311823,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+433,3,1449,0.308602,Twenty-six lymph nodes are negative for metastatic carcinoma.
+434,1,6352,0.307678,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+434,2,637,0.303865,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+434,3,7876,0.301279,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+435,1,6352,0.316992,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+435,2,2280,0.300506,"- Intraductal apocrine ductal carcinoma with lobular cancerization and rare foci of invasion (largest focus 3mm), associated with a large area of recent hemorrhage (5 cm)."
+435,3,6206,0.300354,The largest metastatic focus measures 1 cm with extracapsular extension.
+436,1,6352,0.318043,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+436,2,1247,0.306066,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+436,3,1449,0.301771,Twenty-six lymph nodes are negative for metastatic carcinoma.
+437,1,2455,0.313053,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+437,2,2040,0.310174,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+437,3,1954,0.298515,- Multifocal fat necrosis.
+438,1,2455,0.315445,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+438,2,6352,0.312672,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+438,3,5108,0.312606,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+439,1,6352,0.309287,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+439,2,7292,0.307662,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+439,3,7876,0.305249,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+440,1,6352,0.310186,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+440,2,7292,0.299975,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+440,3,7876,0.296837,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+441,1,6352,0.312788,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+441,2,7876,0.305719,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+441,3,637,0.301577,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+442,1,2455,0.305692,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+442,2,2040,0.303918,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+442,3,1954,0.297605,- Multifocal fat necrosis.
+443,1,5108,0.317492,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+443,2,4231,0.316708,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+443,3,1449,0.315730,Twenty-six lymph nodes are negative for metastatic carcinoma.
+444,1,6352,0.313302,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+444,2,7292,0.308317,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+444,3,5108,0.307485,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+445,1,6352,0.313939,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+445,2,7292,0.300652,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+445,3,637,0.300266,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+446,1,6352,0.317054,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+446,2,7876,0.301753,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+446,3,7292,0.301209,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+447,1,2040,0.304133,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+447,2,2455,0.300665,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+447,3,7654,0.297591,- Residual tumor dimension: 6 cm in the right breast and 5 cm in the left breast.
+448,1,5108,0.312296,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+448,2,1449,0.310107,Twenty-six lymph nodes are negative for metastatic carcinoma.
+448,3,4231,0.305015,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+449,1,6352,0.317706,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+449,2,5108,0.314438,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+449,3,1449,0.312487,Twenty-six lymph nodes are negative for metastatic carcinoma.
+450,1,6352,0.326358,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+450,2,7292,0.307188,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+450,3,6206,0.301497,The largest metastatic focus measures 1 cm with extracapsular extension.
+451,1,6352,0.321427,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+451,2,7292,0.301645,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+451,3,6206,0.300825,The largest metastatic focus measures 1 cm with extracapsular extension.
+452,1,1247,0.299349,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+452,2,6566,0.298433,Minimal axillary tissue is present and no lymph nodes are identified.
+452,3,5108,0.297941,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+453,1,5108,0.308578,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+453,2,1449,0.302969,Twenty-six lymph nodes are negative for metastatic carcinoma.
+453,3,6352,0.298870,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+454,1,5108,0.319479,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+454,2,7292,0.316971,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+454,3,6352,0.312111,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+455,1,6352,0.321564,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+455,2,7292,0.302239,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+455,3,7876,0.297680,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+456,1,6352,0.320614,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+456,2,7292,0.299039,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+456,3,6206,0.296651,The largest metastatic focus measures 1 cm with extracapsular extension.
+457,1,6352,0.310633,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+457,2,5108,0.303509,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+457,3,1247,0.302897,"The report states that the diagnosis before the operation was a left breast mass, and the post-operation diagnosis remains the same."
+458,1,5108,0.308386,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+458,2,1449,0.301659,Twenty-six lymph nodes are negative for metastatic carcinoma.
+458,3,7458,0.298831,3) Lymph node sampling revealed negative for metastasis.
+459,1,1794,0.304862,- The DCIS is located outside the main mass and is diffuse.
+459,2,5108,0.304352,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+459,3,7876,0.302462,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+460,1,6352,0.317624,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+460,2,7292,0.298844,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+460,3,7876,0.294403,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+461,1,6352,0.318917,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+461,2,6206,0.301833,The largest metastatic focus measures 1 cm with extracapsular extension.
+461,3,7292,0.298455,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+462,1,5108,0.311804,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+462,2,1449,0.304867,Twenty-six lymph nodes are negative for metastatic carcinoma.
+462,3,7292,0.302875,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+463,1,5108,0.317112,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+463,2,4231,0.306787,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+463,3,1449,0.306006,Twenty-six lymph nodes are negative for metastatic carcinoma.
+464,1,6352,0.302464,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+464,2,7876,0.300447,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+464,3,7292,0.300264,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+465,1,6352,0.311537,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+465,2,7876,0.300926,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+465,3,7292,0.299113,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+466,1,6352,0.316380,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+466,2,7043,0.297984,"The tumor is classified as invasive lobular breast carcinoma, G II."
+466,3,7681,0.297555,8. Invasive lobular carcinoma found in the lower outer quadrant of the right breast with a size of 1.5 cm in the largest dimension.
+467,1,5108,0.314199,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+467,2,1449,0.307566,Twenty-six lymph nodes are negative for metastatic carcinoma.
+467,3,4231,0.302894,"The regional lymph nodes could not be assessed, and there were no distant metastases."
+468,1,5108,0.310798,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+468,2,7292,0.303158,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+468,3,637,0.299995,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+469,1,6352,0.305522,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+469,2,7876,0.301115,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+469,3,637,0.295875,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+470,1,6352,0.318385,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+470,2,7292,0.300765,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+470,3,7121,0.297528,- The final diagnosis is infiltrating lobular carcinoma with focal lobular carcinoma in situ and cancerization of terminal ducts.
+471,1,6352,0.308856,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+471,2,5108,0.295548,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+471,3,1449,0.294159,Twenty-six lymph nodes are negative for metastatic carcinoma.
+472,1,6352,0.307332,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+472,2,5108,0.307032,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+472,3,1449,0.298360,Twenty-six lymph nodes are negative for metastatic carcinoma.
+473,1,6352,0.318893,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+473,2,7292,0.306160,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+473,3,5108,0.305680,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+474,1,6352,0.311253,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+474,2,7292,0.298826,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+474,3,637,0.297845,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+475,1,6352,0.322914,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+475,2,7292,0.302768,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+475,3,7043,0.301427,"The tumor is classified as invasive lobular breast carcinoma, G II."
+476,1,6352,0.287792,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+476,2,1054,0.285681,4. Skin of left breast: Fibrosis.
+476,3,2362,0.283023,- Fibrosis.
+477,1,6352,0.327252,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+477,2,5108,0.304749,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+477,3,7292,0.302879,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+478,1,6352,0.307598,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+478,2,7876,0.300890,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+478,3,7292,0.296987,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+479,1,6352,0.315433,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+479,2,7653,0.295747,- Distant metastasis: Present.
+479,3,7292,0.293328,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+480,1,6352,0.308960,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+480,2,5108,0.293749,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+480,3,1449,0.290907,Twenty-six lymph nodes are negative for metastatic carcinoma.
+481,1,6352,0.308177,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+481,2,5108,0.296279,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+481,3,1449,0.289283,Twenty-six lymph nodes are negative for metastatic carcinoma.
+482,1,6352,0.317753,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+482,2,5108,0.312205,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+482,3,7292,0.310843,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+483,1,6352,0.304108,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+483,2,7653,0.295490,- Distant metastasis: Present.
+483,3,7292,0.294058,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+484,1,6352,0.323070,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+484,2,6702,0.301425,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+484,3,7292,0.298156,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+485,1,6352,0.290446,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+485,2,5108,0.287191,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+485,3,1054,0.284473,4. Skin of left breast: Fibrosis.
+486,1,5108,0.330053,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+486,2,1449,0.317066,Twenty-six lymph nodes are negative for metastatic carcinoma.
+486,3,7292,0.316385,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+487,1,637,0.299643,"The report also provides information on various factors such as tumor type, Nottingham Grade, angiolymphatic invasion, surgical margins involvement, lymph node metastasis, and TNM stage."
+487,2,7292,0.298752,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+487,3,7876,0.297726,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+488,1,6352,0.314873,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+488,2,7653,0.296820,- Distant metastasis: Present.
+488,3,7292,0.292884,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+489,1,6352,0.294397,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+489,2,5108,0.286791,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+489,3,1449,0.284010,Twenty-six lymph nodes are negative for metastatic carcinoma.
+490,1,5108,0.319989,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+490,2,1449,0.313473,Twenty-six lymph nodes are negative for metastatic carcinoma.
+490,3,7292,0.307493,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+491,1,6352,0.310610,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+491,2,5108,0.306692,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+491,3,7876,0.305988,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+492,1,6352,0.307362,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+492,2,7653,0.296808,- Distant metastasis: Present.
+492,3,7292,0.292858,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+493,1,6352,0.313190,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+493,2,5108,0.296214,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+493,3,6702,0.293591,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+494,1,5108,0.303718,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+494,2,6352,0.302691,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+494,3,1449,0.296877,Twenty-six lymph nodes are negative for metastatic carcinoma.
+495,1,5108,0.319696,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+495,2,912,0.314701,"The primary tumor is classified as pT2 (tumor >20 mm but <50 mm in greatest dimension) and regional lymph nodes are classified as pN1a (metastases in 1 to 3 axillary lymph nodes, with at least 1 metastasis greater than 2.0 mm)."
+495,3,7292,0.312936,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+496,1,6352,0.306826,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+496,2,7876,0.296977,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+496,3,7292,0.296415,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+497,1,6352,0.323652,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+497,2,6702,0.303013,"- Invasive lobular carcinoma, Nottingham grade 2, in the left breast."
+497,3,7292,0.301993,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+498,1,6352,0.283702,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+498,2,5108,0.282623,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+498,3,3345,0.280394,"There were fourteen lymph nodes in the right axilla, all of which were negative for tumor."
+499,1,5108,0.325928,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+499,2,7292,0.317635,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+499,3,7458,0.317324,3) Lymph node sampling revealed negative for metastasis.
+500,1,7292,0.298397,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+500,2,7876,0.298359,The lymph node metastases show extensive extracapsular extension and architectural replacement.
+500,3,5108,0.296794,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+501,1,6352,0.319643,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+501,2,7292,0.303115,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+501,3,1449,0.302806,Twenty-six lymph nodes are negative for metastatic carcinoma.
+502,1,3749,0.280173,[name redacted].
+502,2,1054,0.278877,4. Skin of left breast: Fibrosis.
+502,3,137,0.276543,- Treatment: None.
+503,1,5108,0.324358,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+503,2,7292,0.316267,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+503,3,1794,0.315072,- The DCIS is located outside the main mass and is diffuse.
+504,1,5108,0.317327,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+504,2,7458,0.309137,3) Lymph node sampling revealed negative for metastasis.
+504,3,912,0.308883,"The primary tumor is classified as pT2 (tumor >20 mm but <50 mm in greatest dimension) and regional lymph nodes are classified as pN1a (metastases in 1 to 3 axillary lymph nodes, with at least 1 metastasis greater than 2.0 mm)."
+505,1,6352,0.313250,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+505,2,5108,0.307198,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+505,3,1449,0.306837,Twenty-six lymph nodes are negative for metastatic carcinoma.
+506,1,2040,0.281629,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+506,2,1054,0.278256,4. Skin of left breast: Fibrosis.
+506,3,3345,0.276818,"There were fourteen lymph nodes in the right axilla, all of which were negative for tumor."
+507,1,5108,0.310112,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+507,2,7292,0.304360,- Metastatic Carcinoma in 20 out of 24 lymph nodes with extranodal extension.
+507,3,1258,0.303438,"In the left breast, the carcinoma is poorly differentiated, with high-grade ductal carcinoma in situ (DCIS) and no lymphovascular invasion."
+508,1,2455,0.314866,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+508,2,7239,0.307566,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+508,3,5108,0.306115,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+509,1,6352,0.305702,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+509,2,1449,0.301372,Twenty-six lymph nodes are negative for metastatic carcinoma.
+509,3,2040,0.299724,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+510,1,3749,0.284297,[name redacted].
+510,2,245,0.283424,"- Specimen received fresh for frozen section diagnosis: Sentinel Node #2, Level x, Right Axilla."
+510,3,1623,0.282276,- Hemorrhagic fat necrosis was observed at the previous biopsy site.
+511,1,2040,0.310949,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+511,2,5108,0.307218,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+511,3,7239,0.303320,"4. Right axillary contents: The examination of the axillary fat revealed multiple lymph nodes, all of which were entirely submitted for evaluation."
+512,1,2455,0.311652,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+512,2,2040,0.306982,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+512,3,6352,0.301061,The invasive lobular carcinoma measures 3.8 cm and is classified as grade I-L.
+513,1,3749,0.286120,[name redacted].
+513,2,245,0.283611,"- Specimen received fresh for frozen section diagnosis: Sentinel Node #2, Level x, Right Axilla."
+513,3,244,0.280341,"- Specimen received fresh for frozen section diagnosis: Sentinel Node #1, Level x, Right Axilla."
+514,1,2040,0.307180,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+514,2,2455,0.305600,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+514,3,5108,0.296634,- Metastatic carcinoma involving two of twelve lymph nodes (2/12).
+515,1,2455,0.307507,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+515,2,1954,0.305166,- Multifocal fat necrosis.
+515,3,2040,0.304303,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+516,1,1954,0.305491,- Multifocal fat necrosis.
+516,2,2040,0.304411,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+516,3,2455,0.302400,This portion of adipose tissue contains 20 lymph nodes ranging in size from 0.2 to 3.5 cm.
+517,1,3632,0.310783,"The HER-2/NEU testing was negative, but it will be repeated due to possible differences in fixation."
+517,2,2040,0.300669,"Additional specimens submitted include fragments of adipose tissue, skin, and skin tag."
+517,3,4909,0.295446,The remaining breast tissue shows lipomatous atrophy.
